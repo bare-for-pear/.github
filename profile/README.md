@@ -13,9 +13,9 @@ language layer. One of them has grown into our own: the git engine p2p-git
 began here, as a clone of isomorphic-git, and now lives in
 [pear-full-square](https://github.com/pear-full-square).
 
-## The five organisations
+## The seven organisations
 
-SPLectrum's engineering is spread over five GitHub organisations:
+SPLectrum's engineering is spread over seven GitHub organisations:
 
 - **[splectrum](https://github.com/splectrum)**: where SPLectrum, the
   philosophy project, lives, and where its engineering is planned.
@@ -25,7 +25,11 @@ SPLectrum's engineering is spread over five GitHub organisations:
   all of the platform's code, one module a repository.
 - **[HAICCing](https://github.com/haiccing)**: the packages made from those
   modules, and the `haicc` command: what you can run. Start here.
-- **[SPLectral](https://github.com/splectral)**: components for seeing and
-  working with running systems in the browser.
+- **[myctral](https://github.com/myctral)**: mycelium's data
+  repositories: state.
+- **[myctrans](https://github.com/myctrans)**: data transformation:
+  process.
+- **[SPLectral](https://github.com/splectral)**: interaction, first of
+  all the UI.
 
 Part of the engineering of [SPLectrum](https://splectrum.world).
